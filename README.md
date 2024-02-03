@@ -19,4 +19,4 @@ Program.cs - Is what you should run when wanting to use this code, contains the 
 
 Menu.cs - Contains the ASCII menu and is the main branch of this software that brings everything together and calls upon other classes. <br>
 EventOrganiser.cs - Contains all the properties such as AddEvent(), RemoveEvent(), etc... <br>
-Event.cs - This is the class that defines the actual properties of each event. <br>
+Events.cs - This is the class that defines the actual properties of each event. <br>
