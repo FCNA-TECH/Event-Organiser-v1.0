@@ -18,5 +18,5 @@ However there is no limit to the number of events that can be stored. Each event
 Program.cs - Is what you should run when wanting to use this code, contains the main code that calls on the other classes. <br>
 
 Menu.cs - Contains the ASCII menu and is the main branch of this software that brings everything together and calls upon other classes. <br>
-eventOrganiser.cs - Contains all the properties such as AddEvent(), RemoveEvent(), etc... <br>
+EventOrganiser.cs - Contains all the properties such as AddEvent(), RemoveEvent(), etc... <br>
 Event.cs - This is the class that defines the actual properties of each event. <br>
